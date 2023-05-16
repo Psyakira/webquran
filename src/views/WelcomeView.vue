@@ -13,13 +13,13 @@ export default {
 <style scoped>
 h1{
   color: white;
-  padding-bottom: 20px;
+  padding-bottom: 30px;
   margin: 30px;
   margin-bottom: 0px;
 }
 .arti{
   font-size: 30px;
-  padding-bottom: 35px;
+  padding-bottom: 50px;
 }
 .welcome{
   padding-bottom: 25px;

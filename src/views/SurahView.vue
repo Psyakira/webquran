@@ -60,7 +60,7 @@ li {
 }
 .mb-5{
   margin-right: 20px;
-  padding-bottom: 25px;
+  padding-bottom: 50px;
   margin-bottom: 0px;
 }
 template{
