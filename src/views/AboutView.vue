@@ -18,7 +18,7 @@ h1{
   margin-bottom: 0;
   display: flex;
   justify-content: space-between;
-  font-size: 25px;
+  font-size: 35px;
 }
 img{
   width: 350px;

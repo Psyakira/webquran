@@ -13,9 +13,10 @@ export default {
 <style scoped>
 h1{
   color: white;
-  padding-bottom: 30px;
+  padding-bottom: 50px;
   margin: 30px;
   margin-bottom: 0px;
+  font-size: 50px;
 }
 .arti{
   font-size: 30px;
