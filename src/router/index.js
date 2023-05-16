@@ -1,11 +1,23 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
+import SurahView from "@/views/SurahView.vue";
+import WelcomeView from "@/views/WelcomeView.vue";
 
 const routes = [
   {
     path: '/',
+    name: 'welcome',
+    component: WelcomeView
+  },
+  {
+    path: '/home',
     name: 'home',
     component: HomeView
+  },
+  {
+    path: '/surah:id',
+    name: 'surah',
+    component: SurahView
   },
   {
     path: '/about',
